@@ -1,8 +1,5 @@
-Here's a polished **`README.md`** version of your project that you can use for your **GitHub repository** or portfolio. It's structured, professional, and clearly communicates your work to both technical and non-technical audiences.
 
----
 
-```markdown
 # 🔍 Advanced & Agentic RAG Techniques with LangChain, LangGraph, and Athina AI
 
 This repository showcases advanced **Retrieval-Augmented Generation (RAG)** techniques and their **agentic extensions**, designed to improve the factual accuracy, contextual relevance, and adaptability of Large Language Model (LLM) outputs in production applications.
@@ -91,23 +88,6 @@ Evaluation helps developers measure and optimize RAG pipelines for production us
 
 ---
 
-## 📁 Structure
-
-```
-
-/notebooks
-└── naive\_rag.ipynb
-└── hybrid\_rag.ipynb
-└── agentic\_rag\_examples.ipynb
-└── rag\_evaluation\_athina.ipynb
-/configs
-/utils
-README.md
-
-```
-
----
-
 ## 📌 Goals of This Repo
 
 - Provide clean, modular implementations of advanced RAG techniques.
@@ -118,4 +98,4 @@ README.md
 ---
 
 ## 
-- Athina AI thank you for this amazing rag cookbook
+- Athina AI thank you for this amazing rag cookbook It was great learning from the cookbook have given my personal touch to it
